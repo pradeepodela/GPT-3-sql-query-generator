@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/72432569/177031313-d4eb9cb4-d784-4d20-
 
 <h1>Step 2</h1>
 <h2>change the DIR</h2>
-<pre>cd TGPT-3-sql-query-generator</pre>
+<pre>cd GPT-3-sql-query-generator</pre>
 
 <h1>Step 3</h1>
 <h2> now run the file using this cmd </h2>
